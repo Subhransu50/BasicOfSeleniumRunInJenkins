@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="84754" started-at="2023-06-14T13:28:49Z" finished-at="2023-06-14T13:30:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="84754" started-at="2023-06-14T13:28:49Z" finished-at="2023-06-14T13:30:13Z">
+      <class name="tests.One">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.One@5db250b4]" name="setup" is-config="true" duration-ms="14348" started-at="2023-06-14T18:59:22Z" finished-at="2023-06-14T18:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:tests.One@5db250b4]" name="testOne" duration-ms="9481" started-at="2023-06-14T18:59:36Z" finished-at="2023-06-14T18:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.One@5db250b4]" name="tearDown" is-config="true" duration-ms="1286" started-at="2023-06-14T18:59:45Z" finished-at="2023-06-14T18:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.One@5db250b4]" name="setup" is-config="true" duration-ms="3041" started-at="2023-06-14T18:59:47Z" finished-at="2023-06-14T18:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testOneGoogle()[pri:0, instance:tests.One@5db250b4]" name="testOneGoogle" duration-ms="4124" started-at="2023-06-14T18:59:50Z" finished-at="2023-06-14T18:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOneGoogle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.One@5db250b4]" name="tearDown" is-config="true" duration-ms="1447" started-at="2023-06-14T18:59:54Z" finished-at="2023-06-14T18:59:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.One@5db250b4]" name="setup" is-config="true" duration-ms="4238" started-at="2023-06-14T18:59:55Z" finished-at="2023-06-14T19:00:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testOneYoutube()[pri:0, instance:tests.One@5db250b4]" name="testOneYoutube" duration-ms="12260" started-at="2023-06-14T19:00:00Z" finished-at="2023-06-14T19:00:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOneYoutube -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.One@5db250b4]" name="tearDown" is-config="true" duration-ms="1518" started-at="2023-06-14T19:00:12Z" finished-at="2023-06-14T19:00:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.One -->
+      <class name="tests.Four">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.Four@5bfa9431]" name="setup" is-config="true" duration-ms="24383" started-at="2023-06-14T18:58:49Z" finished-at="2023-06-14T18:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testFour()[pri:0, instance:tests.Four@5bfa9431]" name="testFour" duration-ms="6609" started-at="2023-06-14T18:59:13Z" finished-at="2023-06-14T18:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.Four@5bfa9431]" name="tearDown" is-config="true" duration-ms="1991" started-at="2023-06-14T18:59:20Z" finished-at="2023-06-14T18:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Four -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
